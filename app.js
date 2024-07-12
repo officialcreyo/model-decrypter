@@ -6,22 +6,22 @@ const responses = {
             '9': "2025"
         },
         input2: {
-            '1': "Athlon Silver",
-            '2': "Athlon Gold",
-            '3': "Ryzen 3",
-            '4': "Ryzen 3",
-            '5': "Ryzen 5",
-            '6': "Ryzen 6",
-            '7': "Ryzen 7",
-            '8': "Ryzen 7/9",
-            '9': "Ryzen 9"
+            '1': "Athlon Silver - Low Tier",
+            '2': "Athlon Gold - Low Tier",
+            '3': "Ryzen 3 - Low/Mid Tier",
+            '4': "Ryzen 3 - Low/Mid Tier",
+            '5': "Ryzen 5 - Mid Tier",
+            '6': "Ryzen 5 - Mid Tier",
+            '7': "Ryzen 7 - High Tier",
+            '8': "Ryzen 7/9 - High/Ultra High Tier",
+            '9': "Ryzen 9 - Ultra High Tier"
         },
         input3: {
-            '1': "Zen 1/Zen+",
-            '2': "Zen 2",
-            '3': "Zen 3/Zen 3+",
-            '4': "Zen 4",
-            '5': "Zen 5"
+            '1': "Zen 1/Zen+ released 04/2018",
+            '2': "Zen 2 released 07/2019",
+            '3': "Zen 3/Zen 3+ released 2020/2023",
+            '4': "Zen 4 released 09/2022",
+            '5': "Zen 5 released 07/2024"
         },
         input4: {
             '0': "Lower Model within segment",
